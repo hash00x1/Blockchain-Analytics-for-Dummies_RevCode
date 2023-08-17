@@ -1,0 +1,11 @@
+userName,password,type,participantID,participantName,contactName,physicalAddress,physicalAddress2,city,state,postalCode
+bob,secret,Manufacturer,0,Fortunate Yellowstar Electronics,Bob,1234 Tech Way,,city,state,postalCode
+alice,incorrect,Manufacturer,1,Tony TVs,Alice,2400 Nancy Drive,,city,state,postalCode
+fred,12345,Manufacturer,2,Tedsings Lifestyle Gadgets,Fred,93 Mountainside Trail,,city,state,postalCode
+mary,qwerty,Carrier,3,Team Package Service,Mary,physicalAddress,physicalAddress2,city,state,postalCode
+michael,password,Carrier,4,National Delivery,Michael,physicalAddress,physicalAddress2,city,state,postalCode
+stacey,bulldogs,Carrier,5,Get 'er There Shipping,Stacey,physicalAddress,physicalAddress2,city,state,postalCode
+jim,towncar,Retailer,6,Electronics R Us,Jim,physicalAddress,physicalAddress2,city,state,postalCode
+shelby,ipresume,Retailer,7,TV Town,Shelby,physicalAddress,physicalAddress2,city,state,postalCode
+sam,bigchicken,Retailer,8,Better Purchase,Sam,physicalAddress,physicalAddress2,city,state,postalCode
+dianne,receiving,Retailer,9,Rears and Sowbuck,Dianne,physicalAddress,physicalAddress2,city,state,postalCode
